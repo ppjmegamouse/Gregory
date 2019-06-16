@@ -1,0 +1,2 @@
+# Gregory
+CSBOTプロジェクト用
