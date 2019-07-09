@@ -1,2 +1,2 @@
-# Gregory
-CSBOTプロジェクト用
+# CSBOTプロジェクト用
+
